@@ -1,12 +1,14 @@
 ### Hi Nvimer 👋
 
-***Intro***
+###Intro
+
 
 ```rust
 fn main() {
   println!("Hello World");
 }
 ```
+
 
 ***My Name is Q0tzly***
 
