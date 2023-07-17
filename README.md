@@ -1,6 +1,6 @@
 # Hi Nvimer!?
 
-<h1>Intro</h1>
+<h2>Intro</h2>
 
 
 ```rust
@@ -12,13 +12,13 @@ fn main() {
 
 ***My Name is Q0tzly***
 
-**Use Lang**
+<h4>Use Lang</h4>
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [Rust](https://www.rust-lang.org/)
   - [Python](https://www.python.jp/)
 
-**Use Editor**
+<h4>Use Editor</h4>
 
   - [NeoVim](https://neovim.io/)
   - [VScode](https://vscode.dev/)
