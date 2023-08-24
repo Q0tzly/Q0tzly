@@ -15,7 +15,7 @@ fn main() {
 <h4>Language</h4>
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
-  - [Rust](https://www.rust-lang.org/)
+  - [Rust](https://www.rust-lang.org/) (learning)
   - [Python](https://www.python.jp/)
 
 <h4>Editor</h4>
