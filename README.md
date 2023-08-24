@@ -20,6 +20,6 @@ fn main() {
 
 <h4>Use Editor</h4>
 
-  - [Zed](https://zed.dev/) vim custom
+  - [Zed](https://zed.dev/) (vim custom)
   - [NeoVim](https://neovim.io/)
-  - [VScode](https://vscode.dev/)
+  - [VScode](https://vscode.dev/) (vim custom)
