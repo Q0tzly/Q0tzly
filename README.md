@@ -12,13 +12,13 @@ fn main() {
 
 ***My Name is Q0tzly***
 
-<h4>Use Language</h4>
+<h4>Language</h4>
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [Rust](https://www.rust-lang.org/)
   - [Python](https://www.python.jp/)
 
-<h4>Use Editor</h4>
+<h4>Editor</h4>
 
   - [Zed](https://zed.dev/) (vim custom)
   - [NeoVim](https://neovim.io/)
