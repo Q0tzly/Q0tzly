@@ -1,4 +1,4 @@
-# Hi Nvimer!?
+# Hi Vimer!?
 
 <h2>Intro</h2>
 
@@ -20,6 +20,6 @@ fn main() {
 
 <h4>Use Editor</h4>
 
-  - [Zed](https://zed.dev/)
+  - [Zed](https://zed.dev/) vim custom
   - [NeoVim](https://neovim.io/)
   - [VScode](https://vscode.dev/)
