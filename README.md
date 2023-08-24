@@ -12,7 +12,7 @@ fn main() {
 
 ***My Name is Q0tzly***
 
-<h4>Use Lang</h4>
+<h4>Use Language</h4>
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [Rust](https://www.rust-lang.org/)
