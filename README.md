@@ -25,5 +25,6 @@ fn main() {
   - [VScode](https://vscode.dev/) (vim custom)
 
 <h4>Other</h4>
+
   - Git
   - Docker
