@@ -23,3 +23,7 @@ fn main() {
   - [Zed](https://zed.dev/) (vim custom)
   - [NeoVim](https://neovim.io/)
   - [VScode](https://vscode.dev/) (vim custom)
+
+<h4>Other</h4>
+  - [Git]
+  - [Docker]
