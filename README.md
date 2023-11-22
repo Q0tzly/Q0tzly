@@ -21,8 +21,7 @@ fn main() {
 <h4>Editor</h4>
 
   - [Zed](https://zed.dev/) (vim custom)
-  - [NeoVim](https://neovim.io/)
-  - [VScode](https://vscode.dev/) (vim custom)
+  - [SpaceVim](https://spacevim.org/)
 
 <h4>Other</h4>
 
