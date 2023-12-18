@@ -18,11 +18,12 @@ fn main() {
   - [Rust](https://www.rust-lang.org/) (learning)
   - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
+  - [Markdown](https://daringfireball.net/projects/markdown/)
 
 <h4>Editor</h4>
 
-  - [Zed](https://zed.dev/) (vim custom)
   - [SpaceVim](https://spacevim.org/)
+  - [Zed](https://zed.dev/) (vim custom)
 
 <h4>Other</h4>
 
