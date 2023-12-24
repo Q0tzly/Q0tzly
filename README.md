@@ -29,3 +29,6 @@ fn main() {
 
   - Git
   - Docker
+
+<h4>[MyRule](https://github.com/Q0tzly/CodingRule/blob/main/rule.md)</h4>
+It is Rule I use when coding
