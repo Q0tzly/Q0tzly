@@ -31,5 +31,5 @@ fn main() {
   - Docker
 
 <h4>MyRule</h4>
-[here](https://github.com/Q0tzly/CodingRule/blob/main/rule.md)
+[Here](https://github.com/Q0tzly/CodingRule/rule.md)
 It is Rule I use when coding
