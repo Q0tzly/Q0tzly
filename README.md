@@ -30,5 +30,6 @@ fn main() {
   - Git
   - Docker
 
-<h4>[MyRule](https://github.com/Q0tzly/CodingRule/blob/main/rule.md)</h4>
+<h4>MyRule</h4>
+[here](https://github.com/Q0tzly/CodingRule/blob/main/rule.md)
 It is Rule I use when coding
