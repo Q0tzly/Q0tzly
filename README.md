@@ -23,6 +23,7 @@ fn main() {
 <h4>Editor</h4>
 
   - [SpaceVim](https://spacevim.org/)
+  - [Alacritty](https://alacritty.org/)
   - [Zed](https://zed.dev/) (vim custom)
 
 <h4>Other</h4>
