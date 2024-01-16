@@ -20,6 +20,11 @@ fn main() {
   - [Python](https://www.python.jp/)
   - [Markdown](https://daringfireball.net/projects/markdown/)
 
+<h4>Terminal</h4>
+
+  - [WezTerm](https://wezfurlong.org/wezterm/)
+  - [Alacritty](https://alacritty.org/)
+
 <h4>Editor</h4>
 
   - [SpaceVim](https://spacevim.org/)
