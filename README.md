@@ -22,13 +22,13 @@ fn main() {
 
 <h4>Terminal</h4>
 
-  - [WezTerm](https://wezfurlong.org/wezterm/)
   - [Alacritty](https://alacritty.org/)
+  - [WezTerm](https://wezfurlong.org/wezterm/)
 
 <h4>Editor</h4>
 
   - [SpaceVim](https://spacevim.org/)
-  - [Alacritty](https://alacritty.org/)
+  - [Nvim](https://neovim.io/)
   - [Zed](https://zed.dev/) (vim custom)
 
 <h4>Other</h4>
