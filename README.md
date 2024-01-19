@@ -15,6 +15,7 @@ fn main() {
 <h4>Language</h4>
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
+  - [TokiPona](https://tokipona.org) (learning)
   - [Rust](https://www.rust-lang.org/) (learning)
   - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
