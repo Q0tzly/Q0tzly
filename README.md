@@ -24,7 +24,6 @@ fn main() {
 <h4>Terminal</h4>
 
   - [Alacritty](https://alacritty.org/)
-  - [WezTerm](https://wezfurlong.org/wezterm/)
 
 <h4>Editor</h4>
 
