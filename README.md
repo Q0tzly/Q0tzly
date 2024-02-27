@@ -28,8 +28,7 @@ fn main() {
 <h4>Editor</h4>
 
   - [SpaceVim](https://spacevim.org/)
-  - [Nvim](https://neovim.io/)
-  - [Zed](https://zed.dev/) (vim custom)
+  - [Helix](https://helix-editor.com/)
 
 <h4>Other</h4>
 
