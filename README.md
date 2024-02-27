@@ -16,7 +16,7 @@ fn main() {
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [TokiPona](https://tokipona.org) (learning)
-  - [Rust](https://www.rust-lang.org/) (learning)
+  - [Rust](https://www.rust-lang.org/) (learning) MyFavoriteLanguage
   - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
   - [Markdown](https://daringfireball.net/projects/markdown/)
@@ -36,5 +36,5 @@ fn main() {
   - Docker
 
 <h4>MyRule</h4>
-https://github.com/Q0tzly/CodingRule/blob/main/rule.md
+[myrule](https://github.com/Q0tzly/CodingRule/blob/main/rule.md)
 It is Rule I use when coding
