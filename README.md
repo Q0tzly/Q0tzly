@@ -27,8 +27,8 @@ fn main() {
 
 <h4>Editor</h4>
 
-  - [SpaceVim](https://spacevim.org/)
   - [Helix](https://helix-editor.com/)
+  - [SpaceVim](https://spacevim.org/)
 
 <h4>Other</h4>
 
