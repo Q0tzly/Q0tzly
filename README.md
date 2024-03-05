@@ -37,3 +37,5 @@ fn main() {
 
 <h4>MyRule</h4>
   - [myrule](https://github.com/Q0tzly/CodingRule/blob/main/rule.md) (It is Rule I use when coding)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q0tzly&show_icons=true&theme=transparent)
