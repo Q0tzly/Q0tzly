@@ -16,6 +16,7 @@ fn main() {
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [TokiPona](https://tokipona.org) (learning)
+  - [Lojban](https://lojban.org) (learning)
   - [Rust](https://www.rust-lang.org/) (learning) MyFavoriteLanguage
   - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
