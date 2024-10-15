@@ -2,13 +2,11 @@
 
 <h2>Intro</h2>
 
-
 ```rust
 fn main() {
   println!("Hello World");
 }
 ```
-
 
 ***My Name is Q0tzly***
 
@@ -30,7 +28,6 @@ fn main() {
 <h4>Editor</h4>
 
   - [Helix](https://helix-editor.com/)
-  - [SpaceVim](https://spacevim.org/)
 
 <h4>Tools</h4>
 
