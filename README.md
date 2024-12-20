@@ -23,16 +23,16 @@ fn main() {
 
 <h4>Terminal</h4>
 
-  - [Alacritty](https://alacritty.org/)
+  - [Alacritty](https://alacritty.org/)[ (with SIXEL)](https://github.com/ayosec/alacritty/tree/graphics?tab=readme-ov-file)
 
 <h4>Editor</h4>
 
   - [Helix](https://helix-editor.com/)
+  - [Doom Emacs](https://github.com/doomemacs/doomemacs)
 
 <h4>Tools</h4>
 
   - Git
-  - Docker
 
 <h4>MyRule</h4>
 
