@@ -10,6 +10,9 @@ fn main() {
 
 ***My Name is Q0tzly***
 
+Mypage is [here](https://q0tzly.dev/).
+If you contact with me, you can connect with "contact@q0tzly.dev".
+
 <h4>Language</h4>
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
