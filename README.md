@@ -20,6 +20,7 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
   - [TokiPona](https://tokipona.org) (learning)
   - [Lojban](https://lojban.org) (learning)
   - [Rust](https://www.rust-lang.org/) (learning) MyFavoriteLanguage
+  - [Go](https://go.dev/) (learning)
   - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
   - [Markdown](https://daringfireball.net/projects/markdown/)
