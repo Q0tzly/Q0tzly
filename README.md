@@ -17,8 +17,7 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
 
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [English]() (learning)
-  - [TokiPona](https://tokipona.org) (learning)
-  - [Lojban](https://lojban.org) (learning)
+  - [españolo]() (learning)
   - [Rust](https://www.rust-lang.org/) (learning) MyFavoriteLanguage
   - [Go](https://go.dev/) (learning)
   - [Typescript](https://www.typescriptlang.org) (learning)
@@ -28,19 +27,20 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
 <h4>Terminal</h4>
 
   - [Alacritty](https://alacritty.org/)[ (with SIXEL)](https://github.com/ayosec/alacritty/tree/graphics?tab=readme-ov-file)
+  - [Rio](https://rioterm.com/)
 
 <h4>Editor</h4>
 
   - [Helix](https://helix-editor.com/)
-  - [Doom Emacs](https://github.com/doomemacs/doomemacs)
 
 <h4>Tools</h4>
 
   - Git
+  - Mise
 
-<h4>MyRule</h4>
-
-  - [Myrule](https://github.com/Q0tzly/CodingRule/blob/main/rule.md) (It is Rule I use when coding)
+  - bat
+  - eza
+  - zoxide
 
 <h4>Others</h4>
 
