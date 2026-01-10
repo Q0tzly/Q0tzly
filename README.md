@@ -1,4 +1,4 @@
-# Hi Helixer!?
+# Hi
 
 <h2>Intro</h2>
 
@@ -18,7 +18,8 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [English]() (learning)
   - [españolo]() (learning)
-  - [Rust](https://www.rust-lang.org/) (learning) MyFavoriteLanguage
+  - [Rust](https://www.rust-lang.org/) (learning) I like it
+  - [Erlang](https://www.erlang.org/) (learning) I like it
   - [Go](https://go.dev/) (learning)
   - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
@@ -26,8 +27,8 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
 
 <h4>Terminal</h4>
 
-  - [Alacritty](https://alacritty.org/)[ (with SIXEL)](https://github.com/ayosec/alacritty/tree/graphics?tab=readme-ov-file)
   - [Rio](https://rioterm.com/)
+  - [Alacritty](https://alacritty.org/)[(with SIXEL)](https://github.com/ayosec/alacritty/tree/graphics?tab=readme-ov-file)
 
 <h4>Editor</h4>
 
@@ -37,13 +38,8 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
 
   - Git
   - Mise
+  - Brew
 
   - bat
   - eza
   - zoxide
-
-<h4>Others</h4>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q0tzly&show_icons=true&theme=transparent)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q0tzly&layout=compact)
