@@ -43,3 +43,5 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
   - bat
   - eza
   - zoxide
+
+[![Q0tzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=q0tzly)](https://github.com/anuraghazra/github-readme-stats)
