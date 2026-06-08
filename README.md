@@ -18,17 +18,15 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
   - [Japanese](https://tsunagarujp.bunka.go.jp/?lang_id=EN)
   - [English]() (learning)
   - [españolo]() (learning)
-  - [Rust](https://www.rust-lang.org/) (learning) I like it
+  - [Rust](https://www.rust-lang.org/) () I love it
   - [Erlang](https://www.erlang.org/) (learning) I like it
   - [Go](https://go.dev/) (learning)
-  - [Typescript](https://www.typescriptlang.org) (learning)
   - [Python](https://www.python.jp/)
   - [Markdown](https://daringfireball.net/projects/markdown/)
 
 <h4>Terminal</h4>
 
-  - [Rio](https://rioterm.com/)
-  - [Alacritty](https://alacritty.org/)[(with SIXEL)](https://github.com/ayosec/alacritty/tree/graphics?tab=readme-ov-file)
+  - [Ghostty](https://ghostty.org/)
 
 <h4>Editor</h4>
 
@@ -37,11 +35,8 @@ If you contact with me, you can connect with "contact@q0tzly.dev".
 <h4>Tools</h4>
 
   - Git
-  - Mise
-  - Brew
+  - Mise only (Not use brew)
 
   - bat
   - eza
   - zoxide
-
-[![Q0tzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=q0tzly)](https://github.com/anuraghazra/github-readme-stats)
